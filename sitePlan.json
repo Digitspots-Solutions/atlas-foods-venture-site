@@ -1,0 +1,49 @@
+{
+  "businessName": "Atlas Foods Venture",
+  "industry": "Food Manufacturing",
+  "tone": "warm, trustworthy, professional",
+  "tagline": "Quality Food Products Crafted with Care",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Atlas Foods Venture - Your Trusted Partner in Quality Food Manufacturing. From our facility at Monday Market, New Karu, we bring you premium food products manufactured with the highest standards of hygiene and quality. Serving homes and businesses across Karu and beyond with excellence.",
+      "imagePrompt": "A vibrant, modern Nigerian food manufacturing facility with gleaming stainless steel equipment, workers in white hygiene uniforms and hairnets carefully packaging quality food products, bright natural lighting streaming through large windows, professional food safety standards visible, located in a clean industrial setting in Karu, Nigeria, photorealistic, high resolution",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Atlas Foods Venture is a leading food manufacturing company based in Karu, Nigeria. Located at Monday Market, New Karu, we specialize in producing high-quality food products that meet international standards while maintaining affordability for the Nigerian market. Our state-of-the-art facility combines modern manufacturing techniques with strict quality control measures to ensure every product that leaves our doors is safe, nutritious, and delicious. We are committed to contributing to Nigeria's food security and economic growth through local production and job creation.",
+      "imagePrompt": "Interior of a well-organized Nigerian food production facility showing organized rows of packaged food products, quality control staff inspecting goods, clean tiled floors, proper ventilation systems, NAFDAC compliance certificates on walls, professional atmosphere, natural daylight, photorealistic documentation style",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Products & Services",
+      "copy": "We manufacture a wide range of quality food products including staples, seasonings, and packaged goods that meet the needs of Nigerian households and businesses. Our products are carefully formulated, hygienically produced, and affordably priced. We offer bulk supply for retailers, wholesalers, and institutions, as well as custom manufacturing solutions for businesses looking to develop their own branded food products. Every item is manufactured under strict quality control and complies with NAFDAC regulations.",
+      "imagePrompt": "An attractive product display showing various Nigerian food products in colorful, professionally designed packaging arranged on clean white shelves, items include seasoning cubes, flour packages, cooking ingredients, all with clear labels and NAFDAC numbers, bright commercial photography lighting, modern retail presentation style",
+      "layout": "grid"
+    },
+    {
+      "id": "quality",
+      "name": "Quality Assurance",
+      "copy": "Quality is at the heart of everything we do at Atlas Foods Venture. Our manufacturing process follows strict hygiene protocols and international food safety standards. We source premium raw materials from trusted suppliers, maintain rigorous quality checks at every production stage, and ensure proper packaging to preserve freshness and nutritional value. Our facility is regularly inspected and our products are NAFDAC certified, giving you complete confidence in what you consume.",
+      "imagePrompt": "A quality control laboratory in a Nigerian food facility showing a lab technician in white coat examining food samples under microscope, testing equipment on benches, clipboards with inspection checklists, charts showing quality metrics on walls, professional scientific environment, well-lit, photorealistic",
+      "layout": "default"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to partner with Atlas Foods Venture or stock our quality products? We're here to serve you. Visit our facility at Monday Market, New Karu, Karu, Nigeria, or reach out to discuss your food manufacturing and supply needs. Whether you're a retailer, wholesaler, or looking for custom manufacturing solutions, our team is ready to assist you with prompt, professional service.",
+      "imagePrompt": "Professional Nigerian business contact scene showing a welcoming reception area with Atlas Foods Venture branding, a friendly customer service representative at a modern desk with computer and phone, visible Monday Market New Karu location signage, clean corporate environment, warm lighting, inviting atmosphere",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "08176801759",
+    "email": "info@atlasfoodsventure.ng",
+    "address": "Monday Market, New Karu, Karu, Nigeria",
+    "whatsapp": "https://wa.me/2348176801759"
+  }
+}
